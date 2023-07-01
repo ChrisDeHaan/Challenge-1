@@ -1,8 +1,12 @@
+/* Universal selectors */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/* Element selectors */
 
 body {
     background-color: #d9dcd6;
@@ -17,6 +21,9 @@ p {
     font-size: 16px;
 }
 
+/* Class selectors */
+
+/* Header element selectors. Includes the navigation links, along with the company name/logo. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +57,7 @@ p {
     margin-left: 25px;
 }
 
+/* This is the hero CSS selector and where the actual hero image is stored.The HTML file pulls it when it calls it with the hero class. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +67,7 @@ p {
     background-position: center;
 }
 
+/* These 2 float class selectors are used to easily manipulate the images lefft and right in the main section. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +78,7 @@ p {
     margin-left: 25px;
 }
 
+/* Main section element selectors. */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +103,7 @@ p {
     font-size: 36px;
 }
 
+/* Aside section element selectors. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +131,7 @@ p {
     max-width: 150px;
 }
 
+/* These are the footer element selectors. */
 .footer {
     padding: 30px;
     clear: both;
