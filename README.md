@@ -1,21 +1,18 @@
-# <Your-Project-Title>
+# <Challenge-01>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+<p>The refactor of this website was performed to accommodate a11y users and better meet a11y standards. The client requested it in order to optimize their website for search engines.</p>
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+<p>This website sets out to educate users on the importance of search engine optimization, online reputation management, and social media marketing.</p>
 
 ## Screenshot
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+![mockup of deployed site](Assets/Horiseon-mockup.png)
 
 ## Deployed Link
 
-![mockup of deployed site](Assets/01-html-css-git-homework-demo.png)
+
 
 ## Credits
 
