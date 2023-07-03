@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![mockup of deployed site](Assets/Horiseon-mockup.png)
+![mockup of deployed site](./images/Horiseon-mockup.png)
 
 ## Deployed Link
 
