@@ -12,7 +12,7 @@
 
 ## Deployed Link
 
-
+https://chrisdehaan.github.io/Horiseon-Marketing-Refactor/
 
 ## Credits
 
