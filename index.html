@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
+<!-- This is the head of the HTML file that the webpage does not display. You link your CSS and other things here that
+aren't intended to be loaded with the webpage. -->
+
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/style.css">
     <title> Horiseon | Social Solution Services </title>
 </head>
 
+<!-- This is the start of the body of the webpage. -->
+
 <body>
-    <header class="header">
+
+    <!-- This is the header element where the navigation links and company logo are. -->
+
+    <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
         <nav>
             <ul>
@@ -25,11 +33,14 @@
         </nav>
     </header>
 
-    <!-- technically, CSS images may not need alt attributes -->
-    <div class="hero" alt="team discussing business"></div>
+    <!-- This is the hero. -->
 
-    <main class="content">
-        <section id="search-engine-optimization" class="content-section">
+    <figure alt="team discussing business"></figure>
+
+    <!-- The start of the main element section where the majority of the content of the webapge is located. -->
+
+    <main>
+        <section id="search-engine-optimization" class="main-section">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left"
                 alt="notebook with search engine optimization written in it" />
             <h2>Search Engine Optimization</h2>
@@ -39,7 +50,7 @@
                 your visibility and find the right customers for your business.
             </p>
         </section>
-        <section id="online-reputation-management" class="content-section">
+        <section id="online-reputation-management" class="main-section">
             <img src="./assets/images/online-reputation-management.jpg" class="float-right"
                 alt="laptop showing graph of reputation rising" />
             <h2>Online Reputation Management</h2>
@@ -49,7 +60,7 @@
                 you the control over what potential customers see when they search for your business.
             </p>
         </section>
-        <section id="social-media-marketing" class="content-section">
+        <section id="social-media-marketing" class="main-section">
             <img src="./assets/images/social-media-marketing.jpg" class="float-left"
                 alt="table of people sharing social media terms" />
             <h2>Social Media Marketing</h2>
@@ -61,8 +72,11 @@
         </section>
     </main>
 
-    <aside class="benefits">
-        <section class="benefit-section">
+    <!-- This is the aside element located to the bottom right of the page, next to the main element. additional info can be found
+    here. -->
+
+    <aside>
+        <section class="aside-section">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="work turns into money" />
             <p>
@@ -70,7 +84,7 @@
                 to your website.
             </p>
         </section>
-        <section class="benefit-section">
+        <section class="aside-section">
             <h3>Brand Awareness</h3>
             <img src="./assets/images/brand-awareness.png" alt="high visibility business person" />
             <p>
@@ -78,7 +92,7 @@
                 for your business.
             </p>
         </section>
-        <section class="benefit-section">
+        <section class="aside-section">
             <h3>Cost Management</h3>
             <img src="./assets/images/cost-management.png" alt="gears and coins" />
             <p>
@@ -88,7 +102,9 @@
         </section>
     </aside>
 
-    <footer class="footer">
+    <!-- The footer element begins here. -->
+
+    <footer>
         <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.

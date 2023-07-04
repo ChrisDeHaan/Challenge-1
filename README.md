@@ -12,7 +12,7 @@ https://chrisdehaan.github.io/Horiseon-Marketing-Refactor/
 
 ## Screenshot
 
-![mockup of deployed site](./images/Horiseon-mockup.png)
+![mockup of deployed site](./assets/images/Horiseon-mockup.png)
 
 ## Credits
 
