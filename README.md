@@ -1,4 +1,4 @@
-# Challenge-01
+# Horiseon Marketing Refactor
 
 ## Description
 
@@ -6,13 +6,13 @@
 
 <p>This website sets out to educate users on the importance of search engine optimization, online reputation management, and social media marketing.</p>
 
-## Screenshot
-
-![mockup of deployed site](./images/Horiseon-mockup.png)
-
 ## Deployed Link
 
 https://chrisdehaan.github.io/Horiseon-Marketing-Refactor/
+
+## Screenshot
+
+![mockup of deployed site](./images/Horiseon-mockup.png)
 
 ## Credits
 
